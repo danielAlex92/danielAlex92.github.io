@@ -25,3 +25,6 @@ Este es mi footer desde rama footer local Linux
 Nueva linea verificacion de gitignore
 
 Master 1 local
+
+
+Hagamos cosas de cherry pick
